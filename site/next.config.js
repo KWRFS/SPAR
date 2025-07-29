@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'KASM WORKSPACES REPO FOR SOC',
     description: 'SPAR - SOC Platform for Asset Repository',
-    icon: 'Untitled design.png',
+    icon: 'https://github.com/KWRFS/SPAR/blob/84aa9f9c577ddd0976047645a6fc7b9353c414b6/Untitled%20design.png',
     listUrl: 'https://github.com/KWRFS/SPAR/',
     contactUrl: 'https://kasmweb.com/support',
   },
