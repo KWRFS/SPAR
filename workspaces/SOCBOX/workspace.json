@@ -21,7 +21,7 @@
       "image": "kwrfs/socbox",
       "uncompressed_size_mb": 12900,
       "available_tags": [
-        "latest"
+        "1.16.x"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "image": "kwrfs/socbox",
       "uncompressed_size_mb": 12900,
       "available_tags": [
-        "latest"
+        "1.17.x"
       ]
     },
      {
